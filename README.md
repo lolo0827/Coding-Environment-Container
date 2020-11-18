@@ -7,8 +7,8 @@ The code include are come from some tutorial online
 
 I am still learning docker/cointainer
 
-And I will try improve in the future
+And I will try improve in the future.
 
 The Dockerfile version 0.2
 
-A python coding environment oriented Container
+A python coding environment oriented Container.
