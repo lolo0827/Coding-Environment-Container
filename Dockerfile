@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 LABEL maintainer="NONE"
-LABEL version="0.2"
+LABEL version="0.2 Beta"
 LABEL description="This is custom Docker Image for Python development "
 ARG DEBIAN_FRONTEND=noninteractive
 ARG --security-opt seccomp:unconfined
